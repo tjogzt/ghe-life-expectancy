@@ -1,0 +1,2 @@
+"Method","Variable","Threshold","SE","CI_Lower","CI_Upper","Beta_Low","SE_Low","P_Low","N_Low","Beta_High","SE_High","P_High","N_High","N_Total","N_Boot","Bootstrap_Time_Sec","Fixed_Effects","Robust_SE"
+"Enhanced C++ FE","Institutional Capacity",6.49942120189793,0.793373140984964,6.47893258009437,9.61922778304138,-0.23485083053627,0.214963485916761,0.274606805663903,551,-0.187468013349953,0.0365995739720151,3.02093086990141e-07,4775,5326,1000,18.8724939823151,"Two-way","HC1"

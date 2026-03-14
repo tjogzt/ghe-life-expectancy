@@ -1,0 +1,100 @@
+IndicatorCode,IndicatorName,Language
+FINPROTECTION_CATA_ESTIMATE_AVAILABLE,Availability of estimates on large  health expenditures as a share of total expenditure or income,EN
+FINPROTECTION_IMP_PG_190,"Increase in poverty gap  due to household  health expenditures at the $1.90 a day poverty line, in cents of international dollars",EN
+FINPROTECTION_IMP_PG_190_STD,"Increase in poverty gap due to household  health expenditures, expressed as a proportion of the $1.90 a-day poverty line (%)",EN
+FINPROTECTION_IMPOV_ESTIMATE_AVAILABLE,Availability of estimates on impoverishment due to out-of-pocket health expenditures,EN
+FINPROTECTION_IMP_NP190_POP,Population  pushed below the $1.90 a day  poverty line by household  health expenditures (%),EN
+FINPROTECTION_IMP_NP_190_LEVEL_MILLION,Total population  pushed below the $1.90 a day  poverty line by household  health expenditures (millions),EN
+FINPROTECTION_IMP_NP_310_LEVEL_MILLION,Total population pushed below the $3.20 a day poverty line by household health expenditures (millions),EN
+FINPROTECTION_IMP_NP_310_LEVEL_SH,"Total population pushed below the $3.20 a day poverty line by household health expenditures (%, regional, global)",EN
+MH_19,"Mental hospital admissions (per 100,000)",EN
+MH_24,"Mental health units in general hospitals admissions (per 100,000)",EN
+MH_5,Government expenditures on mental hospitals as a percentage of total government expenditures on mental health (%),EN
+MH_17,"Mental hospitals (per 100,000)",EN
+FINPROTECTION_IMP_NP_190_LEVEL_SH,Total population  pushed below the $1.90 a day  poverty line by household  health expenditures (%),EN
+FINPROTECTION_IMP_NP310_POP,"Population pushed below the $3.20 a day poverty line by household health expenditures (%, national, rural, urban)",EN
+FINPROTECTION_IMP_PG_310,"Increase in poverty gap  due to household  health expenditures at the $3.10a day poverty line, in cents of international dollars",EN
+FINPROTECTION_IMP_PG_310_STD,"Increase in poverty gap due to household health expenditures, expressed as a proportion of the $3.20 a-day poverty line (%, national, rural, urban)",EN
+GDO_q16x2_1,Availability of routine hospital admissions records for people with dementia for monitoring purposes,EN
+DEVICES03,Total density per 100 000 population: District/rural hospitals,EN
+DEVICES04,Total density per 100 000 population: Provincial hospitals,EN
+DEVICES00,Total density per 100 000 population: Hospitals,EN
+DEVICES05,Total density per 100 000 population: Specialized hospitals,EN
+NCD_CCS_chemo,General availability of chemotherapy in the public health system,EN
+AMRGLASS_SURVL01,Number of national surveillance sites in each country providing data to GLASS: hospital category,EN
+MH_13,"Beds for mental health in general hospitals (per 100,000)",EN
+MH_16,"Beds in mental hospitals (per 100,000)",EN
+MH_18,"Mental health units in general hospitals (per 100,000)",EN
+GDO_q15x2_8,Existence of dementia training for retail and hospitality staff,EN
+NHAOOPSTHE,Out-of-Pocket expenditure on health as percentage of total health expenditure??,EN
+NHAPREPAIDTHE,Prepaid plans as percentage of total health expenditure?,EN
+GDO_q4x3x4_4,Existence of standards/ guidelines/ protocols of care in hospital for people with dementia,EN
+NTD_ONCHEMO,Estimated number of individuals in the country requiring preventive chemotherapy for onchocerciasis,EN
+E12_brand_sharing,Ban on brand name of non-tobacco products used for tobacco product,EN
+GDO_q9_1,Dementia care facilities [hospitals],EN
+GDO_q9x1_3,"Dementia-specific hospital beds (per 10,000 population)",EN
+GDO_q9x1_5,"Total dementia hospital admissions (per 100,000)",EN
+GDO_q9x1_7,Estimated percentage of hospitals following national dementia standards,EN
+GHED_EXT_pc_US_SHA2011,External health expenditure (EXT) per capita in US$,EN
+GHED_GGHE-D_pc_US_SHA2011,Domestic general government health expenditure (GGHE-D) per capita in US$,EN
+GHED_GGHE-DGGE_SHA2011,Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE) (%),EN
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,EN
+GHED_CHEGDP_SHA2011,Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%),EN
+GHED_EXT_pc_PPP_SHA2011,External health expenditure (EXT) per capita in PPP int$,EN
+GHED_PVT-D_pc_PPP_SHA2011,Domestic private health expenditure (PVT-D) per capita in PPP int$,EN
+GHED_GGHE-D_pc_PPP_SHA2011,Domestic general government health expenditure (GGHE-D) per capita in PPP int$,EN
+GHED_GGHE-DGDP_SHA2011,Domestic general government health expenditure (GGHE-D) as percentage of gross domestic product (GDP) (%),EN
+GHED_OOP_pc_PPP_SHA2011,Out-of-pocket expenditure (OOP) per capita in PPP int$,EN
+GHED_OOP_pc_US_SHA2011,Out-of-pocket expenditure (OOP) per capita in US$,EN
+GHED_PVT-D_pc_US_SHA2011,Domestic private health expenditure (PVT-D) per capita in US$,EN
+GHED_PVT-DCHE_SHA2011,Domestic private health expenditure (PVT-D) as percentage of current health expenditure (CHE) (%),EN
+GDO_q9x1_4,"Geriatric-specific hospital beds (per 10,000 population)",EN
+GHED_CHE_pc_PPP_SHA2011,Current health expenditure (CHE) per capita in PPP int$,EN
+O_Avail_hosp,Treatment for tobacco dependence available in hospitals,EN
+SA_0000001465,"Hospital discharges, alcohol-related injuries and poisoning, per 100,000",EN
+GHED_EXTCHE_SHA2011,External health expenditure (EXT) as percentage of current health expenditure (CHE) (%),EN
+GHED_GGHE-DCHE_SHA2011,Domestic general government health expenditure (GGHE-D) as percentage of current health expenditure (CHE) (%),EN
+GHED_OOPSCHE_SHA2011,Out-of-pocket expenditure as percentage of current health expenditure (CHE) (%),EN
+O_Ins_hosp,Treatment for tobacco dependence in hospitals cost covered,EN
+SA_0000001466,"Hospital discharges, alcoholic liver disease, per 100,000",EN
+RS_238,Existence of a universal access telephone number for pre-hospital care,EN
+RADON_Q701,Mandatory preventive measures (new buildings),EN
+RS_237,Existence of a formal pre-hospital care system,EN
+TOBACCO_0000000362,Smoking cessation support is available in hospitals,EN
+WHS6_102,Hospital beds (per 10 000 population),EN
+TB_hiv_cpt_pct,HIV-positive TB patients on CPT (co-trimoxazole preventive therapy) (%),EN
+FINPROTECTION_IMP_P_215_LEVEL_SH,"Total population pushed further below the $2.15 a day poverty line by household health expenditures (%, regional, global)",EN
+FINPROTECTION_IMP_P_215_LEVEL_MILLION,"Total population pushed further below the $2.15 a day poverty line by household health expenditures (millions, regional, global)",EN
+FINPROTECTION_IMP_P310_POP,"Population pushed further below the $3.20 a day poverty line by household health expenditures (%, national, rural, urban)",EN
+FINPROTECTION_IMP_P365_POP,"Population pushed further below the $3.65 a day poverty line by household health expenditures (%, national, rural, urban)",EN
+FINPROTECTION_IMP_NP215_POP,"Population pushed below the $2.15 a day poverty line by household health expenditures (%, national, rural, urban)",EN
+FINPROTECTION_IMP_PRELPL_POP,"Population pushed further below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income (%, national, rural, urban)",EN
+GHED_PHC_pc_US_SHA2011,Primary health care expenditure (PHCE) per сapita in US$,EN
+FINPROTECTION_IMP_NP_215_LEVEL_SH,"Total population pushed below the $2.15 a day poverty line by household health expenditures (%, regional, global)",EN
+FINPROTECTION_IMP_P190_LEVEL_SH,"Total population pushed further below the $1.90 a day poverty line by household health expenditures (%, regional, global)",EN
+FINPROTECTION_IMP_NPRELPL_POP,"Population pushed below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income (%, national, rural, urban)",EN
+FINPROTECTION_IMP_P310_LEVEL_SH,"Total population pushed further below the $3.20 a day poverty line by household health expenditures (%, regional, global)",EN
+ORALHEALTH_UHC_ADVANCE_CURATIVE,Oral health interventions as part of health benefit packages: Advanced curative oral health care,EN
+FINPROTECTION_IMP_PG_365_STD,"Increase in poverty gap due to household health expenditures, expressed as a proportion of the $3.65 a-day poverty line (%, national, rural, urban)",EN
+ORALHEALTH_UHC_PREVENTIVE,Oral health interventions as part of health benefit packages: Routine and preventive oral health care,EN
+FINPROTECTION_IMP_P190_LEVEL_MILLION,"Total population pushed further below the $1.90 a day poverty line by household health expenditures (millions, regional, global)",EN
+FINPROTECTION_IMP_NP_REL_LEVEL_MILLION,"Total population pushed below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income (millions, regional, global)",EN
+FINPROTECTION_IMP_NP365_POP,"Population pushed below the $3.65 a day poverty line by household health expenditures (%, national, rural, urban)",EN
+FINPROTECTION_IMP_P190_POP,"Population pushed further below the $1.90 a day poverty line by household health expenditures (%, national, rural, urban)",EN
+FINPROTECTION_IMP_PREL_LEVEL_MILLION,"Total population pushed further below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income (millions, regional, global)",EN
+FINPROTECTION_IMP_PG_215_STD,"Increase in poverty gap due to household health expenditures, expressed as a proportion of the $2.15 a-day poverty line (%, national, rural, urban)",EN
+ORALHEALTH_UHC_GOVSCHEME,Oral health interventions as part of health benefit packages: Coverage of the largest government health financing scheme (%),EN
+MALARIA_IPTP3_COVERAGE,Pregnant women attending antenatal care  at least once and receiving at least 3 doses of Intermittent Preventive Treatment of Malaria for Pregnant Women (IPTp3) (%),EN
+ORALHEALTH_UHC_ESSENTIAL_CURATIVE,Oral health interventions as part of health benefit packages: Essential curative oral health care,EN
+FINPROTECTION_IMP_P215_POP,"Population pushed further below the $2.15 a day poverty line by household health expenditures (%, national, rural, urban)",EN
+GHED_PHC_GGHE-D_PHC_SHA2011,Domestic general government expenditure on PHC as % of primary health care expenditure (PHCE) (%),EN
+FINPROTECTION_IMP_NP_215_LEVEL_MILLION,"Total population pushed below the $2.15 a day poverty line by household health expenditures (millions, regional, global)",EN
+FINPROTECTION_IMP_NP_365_LEVEL_SH,"Total population pushed below the $3.65 a day poverty line by household health expenditures (%, regional, global)",EN
+ORALHEALTH_DENOMINATOR_CHEPPP,Per capita current health expenditure in PPP (oral health),EN
+FINPROTECTION_IMP_P310_LEVEL_MILLION,"Total population pushed further below the $3.20 a day poverty line by household health expenditures (millions, regional, global)",EN
+FINPROTECTION_IMP_P_365_LEVEL_MILLION,"Total population pushed further below the $3.65 a day poverty line by household health expenditures (millions, regional, global)",EN
+FINPROTECTION_IMP_NP_365_LEVEL_MILLION,"Total population pushed below the $3.65 a day poverty line by household health expenditures (millions, regional, global)",EN
+FINPROTECTION_IMP_P_365_LEVEL_SH,"Total population pushed further below the $3.65 a day poverty line by household health expenditures (%, regional, global)",EN
+FINPROTECTION_IMP_PG_RELPL_STD,"Increase in poverty gap due to household health expenditures, expressed as a proportion of a relative poverty line - 60% of median daily per capita consumption or income (%, national, rural, urban)",EN
+FINPROTECTION_IMP_NP_REL_LEVEL_SH,"Total population pushed below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income (%, regional, global)",EN
+FINPROTECTION_IMP_PREL_LEVEL_SH,"Total population pushed further below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income (%, regional, global)",EN

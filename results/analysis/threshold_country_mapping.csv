@@ -1,0 +1,11 @@
+side,iso3,country,gov_eff_avg,income_group,global_rank_wgi_2022
+Below Threshold,ARG,Argentina,0.3,Upper Middle Income,,
+Below Threshold,CHN,China,0.3,Upper Middle Income,,
+Below Threshold,IND,India,0.3,Lower Middle Income,,
+Below Threshold,BRA,Brazil,0.5,Upper Middle Income,,
+Below Threshold,ITA,Italy,0.5,High Income,,
+Above Threshold,USA,United States,0.7,High Income,,
+Above Threshold,AUS,Australia,0.9,High Income,,
+Above Threshold,CAN,Canada,0.9,High Income,,
+Above Threshold,DEU,Germany,0.9,High Income,,
+Above Threshold,NZL,New Zealand,0.9,High Income,,

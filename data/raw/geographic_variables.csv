@@ -1,0 +1,250 @@
+iso3c,country.name.en,continent,region,landlocked,distance_to_coast
+AFG,Afghanistan,Asia,South Asia,1,1000
+ALB,Albania,Europe,Europe & Central Asia,0,0
+DZA,Algeria,Africa,Middle East & North Africa,0,0
+ASM,American Samoa,Oceania,East Asia & Pacific,0,0
+AND,Andorra,Europe,Europe & Central Asia,1,1000
+AGO,Angola,Africa,Sub-Saharan Africa,0,0
+AIA,Anguilla,Americas,Latin America & Caribbean,0,0
+ATA,Antarctica,Antarctica,NA,0,0
+ATG,Antigua & Barbuda,Americas,Latin America & Caribbean,0,0
+ARG,Argentina,Americas,Latin America & Caribbean,0,0
+ARM,Armenia,Asia,Europe & Central Asia,1,1000
+ABW,Aruba,Americas,Latin America & Caribbean,0,0
+AUS,Australia,Oceania,East Asia & Pacific,0,0
+AUT,Austria,Europe,Europe & Central Asia,1,1000
+AZE,Azerbaijan,Asia,Europe & Central Asia,1,1000
+BHS,Bahamas,Americas,Latin America & Caribbean,0,0
+BHR,Bahrain,Asia,Middle East & North Africa,0,0
+BGD,Bangladesh,Asia,South Asia,0,0
+BRB,Barbados,Americas,Latin America & Caribbean,0,0
+BLR,Belarus,Europe,Europe & Central Asia,1,1000
+BEL,Belgium,Europe,Europe & Central Asia,0,0
+BLZ,Belize,Americas,Latin America & Caribbean,0,0
+BEN,Benin,Africa,Sub-Saharan Africa,0,0
+BMU,Bermuda,Americas,North America,0,0
+BTN,Bhutan,Asia,South Asia,0,0
+BOL,Bolivia,Americas,Latin America & Caribbean,1,1000
+BIH,Bosnia & Herzegovina,Europe,Europe & Central Asia,0,0
+BWA,Botswana,Africa,Sub-Saharan Africa,1,1000
+BVT,Bouvet Island,NA,NA,0,0
+BRA,Brazil,Americas,Latin America & Caribbean,0,0
+IOT,British Indian Ocean Territory,NA,NA,0,0
+VGB,British Virgin Islands,Americas,Latin America & Caribbean,0,0
+BRN,Brunei,Asia,East Asia & Pacific,0,0
+BGR,Bulgaria,Europe,Europe & Central Asia,0,0
+BFA,Burkina Faso,Africa,Sub-Saharan Africa,1,1000
+BDI,Burundi,Africa,Sub-Saharan Africa,1,1000
+KHM,Cambodia,Asia,East Asia & Pacific,0,0
+CMR,Cameroon,Africa,Sub-Saharan Africa,0,0
+CAN,Canada,Americas,North America,0,0
+CPV,Cape Verde,Africa,Sub-Saharan Africa,0,0
+BES,Caribbean Netherlands,Americas,Latin America & Caribbean,0,0
+CYM,Cayman Islands,Americas,Latin America & Caribbean,0,0
+CAF,Central African Republic,Africa,Sub-Saharan Africa,1,1000
+TCD,Chad,Africa,Sub-Saharan Africa,1,1000
+CHL,Chile,Americas,Latin America & Caribbean,0,0
+CHN,China,Asia,East Asia & Pacific,0,0
+CXR,Christmas Island,Oceania,East Asia & Pacific,0,0
+CCK,Cocos (Keeling) Islands,NA,East Asia & Pacific,0,0
+COL,Colombia,Americas,Latin America & Caribbean,0,0
+COM,Comoros,Africa,Sub-Saharan Africa,0,0
+COG,Congo - Brazzaville,Africa,Sub-Saharan Africa,0,0
+COD,Congo - Kinshasa,Africa,Sub-Saharan Africa,0,0
+COK,Cook Islands,Oceania,East Asia & Pacific,0,0
+CRI,Costa Rica,Americas,Latin America & Caribbean,0,0
+HRV,Croatia,Europe,Europe & Central Asia,0,0
+CUB,Cuba,Americas,Latin America & Caribbean,0,0
+CUW,Curaçao,Americas,Latin America & Caribbean,0,0
+CYP,Cyprus,Asia,Europe & Central Asia,0,0
+CZE,Czechia,Europe,Europe & Central Asia,1,1000
+CIV,Côte d’Ivoire,Africa,Sub-Saharan Africa,0,0
+DNK,Denmark,Europe,Europe & Central Asia,0,0
+DJI,Djibouti,Africa,Middle East & North Africa,0,0
+DMA,Dominica,Americas,Latin America & Caribbean,0,0
+DOM,Dominican Republic,Americas,Latin America & Caribbean,0,0
+ECU,Ecuador,Americas,Latin America & Caribbean,0,0
+EGY,Egypt,Africa,Middle East & North Africa,0,0
+SLV,El Salvador,Americas,Latin America & Caribbean,0,0
+GNQ,Equatorial Guinea,Africa,Sub-Saharan Africa,0,0
+ERI,Eritrea,Africa,Sub-Saharan Africa,0,0
+EST,Estonia,Europe,Europe & Central Asia,0,0
+SWZ,Eswatini,Africa,Sub-Saharan Africa,1,1000
+ETH,Ethiopia,Africa,Sub-Saharan Africa,1,1000
+FLK,Falkland Islands,Americas,Latin America & Caribbean,0,0
+FRO,Faroe Islands,Europe,Europe & Central Asia,0,0
+FJI,Fiji,Oceania,East Asia & Pacific,0,0
+FIN,Finland,Europe,Europe & Central Asia,0,0
+FRA,France,Europe,Europe & Central Asia,0,0
+GUF,French Guiana,Americas,Latin America & Caribbean,0,0
+PYF,French Polynesia,Oceania,East Asia & Pacific,0,0
+ATF,French Southern Territories,NA,NA,0,0
+GAB,Gabon,Africa,Sub-Saharan Africa,0,0
+GMB,Gambia,Africa,Sub-Saharan Africa,0,0
+GEO,Georgia,Asia,Europe & Central Asia,0,0
+DEU,Germany,Europe,Europe & Central Asia,0,0
+GHA,Ghana,Africa,Sub-Saharan Africa,0,0
+GIB,Gibraltar,Europe,Europe & Central Asia,0,0
+GRC,Greece,Europe,Europe & Central Asia,0,0
+GRL,Greenland,Americas,Europe & Central Asia,0,0
+GRD,Grenada,Americas,Latin America & Caribbean,0,0
+GLP,Guadeloupe,Americas,Latin America & Caribbean,0,0
+GUM,Guam,Oceania,East Asia & Pacific,0,0
+GTM,Guatemala,Americas,Latin America & Caribbean,0,0
+GGY,Guernsey,Europe,Europe & Central Asia,0,0
+GIN,Guinea,Africa,Sub-Saharan Africa,0,0
+GNB,Guinea-Bissau,Africa,Sub-Saharan Africa,0,0
+GUY,Guyana,Americas,Latin America & Caribbean,0,0
+HTI,Haiti,Americas,Latin America & Caribbean,0,0
+HMD,Heard & McDonald Islands,NA,East Asia & Pacific,0,0
+HND,Honduras,Americas,Latin America & Caribbean,0,0
+HKG,Hong Kong SAR China,Asia,East Asia & Pacific,0,0
+HUN,Hungary,Europe,Europe & Central Asia,1,1000
+ISL,Iceland,Europe,Europe & Central Asia,0,0
+IND,India,Asia,South Asia,0,0
+IDN,Indonesia,Asia,East Asia & Pacific,0,0
+IRN,Iran,Asia,Middle East & North Africa,0,0
+IRQ,Iraq,Asia,Middle East & North Africa,0,0
+IRL,Ireland,Europe,Europe & Central Asia,0,0
+IMN,Isle of Man,Europe,Europe & Central Asia,0,0
+ISR,Israel,Asia,Middle East & North Africa,0,0
+ITA,Italy,Europe,Europe & Central Asia,0,0
+JAM,Jamaica,Americas,Latin America & Caribbean,0,0
+JPN,Japan,Asia,East Asia & Pacific,0,0
+JEY,Jersey,Europe,Europe & Central Asia,0,0
+JOR,Jordan,Asia,Middle East & North Africa,0,0
+KAZ,Kazakhstan,Asia,Europe & Central Asia,1,1000
+KEN,Kenya,Africa,Sub-Saharan Africa,0,0
+KIR,Kiribati,Oceania,East Asia & Pacific,0,0
+KWT,Kuwait,Asia,Middle East & North Africa,0,0
+KGZ,Kyrgyzstan,Asia,Europe & Central Asia,1,1000
+LAO,Laos,Asia,East Asia & Pacific,1,1000
+LVA,Latvia,Europe,Europe & Central Asia,0,0
+LBN,Lebanon,Asia,Middle East & North Africa,0,0
+LSO,Lesotho,Africa,Sub-Saharan Africa,1,1000
+LBR,Liberia,Africa,Sub-Saharan Africa,0,0
+LBY,Libya,Africa,Middle East & North Africa,0,0
+LIE,Liechtenstein,Europe,Europe & Central Asia,1,1000
+LTU,Lithuania,Europe,Europe & Central Asia,0,0
+LUX,Luxembourg,Europe,Europe & Central Asia,1,1000
+MAC,Macao SAR China,Asia,East Asia & Pacific,0,0
+MDG,Madagascar,Africa,Sub-Saharan Africa,0,0
+MWI,Malawi,Africa,Sub-Saharan Africa,1,1000
+MYS,Malaysia,Asia,East Asia & Pacific,0,0
+MDV,Maldives,Asia,South Asia,0,0
+MLI,Mali,Africa,Sub-Saharan Africa,1,1000
+MLT,Malta,Europe,Middle East & North Africa,0,0
+MHL,Marshall Islands,Oceania,East Asia & Pacific,0,0
+MTQ,Martinique,Americas,Latin America & Caribbean,0,0
+MRT,Mauritania,Africa,Sub-Saharan Africa,0,0
+MUS,Mauritius,Africa,Sub-Saharan Africa,0,0
+MYT,Mayotte,Africa,NA,0,0
+MEX,Mexico,Americas,Latin America & Caribbean,0,0
+FSM,Micronesia (Federated States of),Oceania,East Asia & Pacific,0,0
+MDA,Moldova,Europe,Europe & Central Asia,1,1000
+MCO,Monaco,Europe,Europe & Central Asia,0,0
+MNG,Mongolia,Asia,East Asia & Pacific,1,1000
+MNE,Montenegro,Europe,Europe & Central Asia,0,0
+MSR,Montserrat,Americas,Latin America & Caribbean,0,0
+MAR,Morocco,Africa,Middle East & North Africa,0,0
+MOZ,Mozambique,Africa,Sub-Saharan Africa,0,0
+MMR,Myanmar (Burma),Asia,East Asia & Pacific,0,0
+NAM,Namibia,Africa,Sub-Saharan Africa,0,0
+NRU,Nauru,Oceania,East Asia & Pacific,0,0
+NPL,Nepal,Asia,South Asia,1,1000
+NLD,Netherlands,Europe,Europe & Central Asia,0,0
+NCL,New Caledonia,Oceania,East Asia & Pacific,0,0
+NZL,New Zealand,Oceania,East Asia & Pacific,0,0
+NIC,Nicaragua,Americas,Latin America & Caribbean,0,0
+NER,Niger,Africa,Sub-Saharan Africa,1,1000
+NGA,Nigeria,Africa,Sub-Saharan Africa,0,0
+NIU,Niue,Oceania,East Asia & Pacific,0,0
+NFK,Norfolk Island,Oceania,East Asia & Pacific,0,0
+PRK,North Korea,Asia,East Asia & Pacific,0,0
+MKD,North Macedonia,Europe,Europe & Central Asia,1,1000
+MNP,Northern Mariana Islands,Oceania,East Asia & Pacific,0,0
+NOR,Norway,Europe,Europe & Central Asia,0,0
+OMN,Oman,Asia,Middle East & North Africa,0,0
+PAK,Pakistan,Asia,South Asia,0,0
+PLW,Palau,Oceania,East Asia & Pacific,0,0
+PSE,Palestinian Territories,Asia,Middle East & North Africa,0,0
+PAN,Panama,Americas,Latin America & Caribbean,0,0
+PNG,Papua New Guinea,Oceania,East Asia & Pacific,0,0
+PRY,Paraguay,Americas,Latin America & Caribbean,1,1000
+PER,Peru,Americas,Latin America & Caribbean,0,0
+PHL,Philippines,Asia,East Asia & Pacific,0,0
+PCN,Pitcairn Islands,Oceania,East Asia & Pacific,0,0
+POL,Poland,Europe,Europe & Central Asia,0,0
+PRT,Portugal,Europe,Europe & Central Asia,0,0
+PRI,Puerto Rico,Americas,Latin America & Caribbean,0,0
+QAT,Qatar,Asia,Middle East & North Africa,0,0
+ROU,Romania,Europe,Europe & Central Asia,0,0
+RUS,Russia,Europe,Europe & Central Asia,0,0
+RWA,Rwanda,Africa,Sub-Saharan Africa,1,1000
+REU,Réunion,Africa,NA,0,0
+MAF,Saint Martin (French part),Americas,Latin America & Caribbean,0,0
+WSM,Samoa,Oceania,East Asia & Pacific,0,0
+SMR,San Marino,Europe,Europe & Central Asia,1,1000
+SAU,Saudi Arabia,Asia,Middle East & North Africa,0,0
+SEN,Senegal,Africa,Sub-Saharan Africa,0,0
+SRB,Serbia,Europe,Europe & Central Asia,1,1000
+SYC,Seychelles,Africa,Sub-Saharan Africa,0,0
+SLE,Sierra Leone,Africa,Sub-Saharan Africa,0,0
+SGP,Singapore,Asia,East Asia & Pacific,0,0
+SXM,Sint Maarten,Americas,Latin America & Caribbean,0,0
+SVK,Slovakia,Europe,Europe & Central Asia,1,1000
+SVN,Slovenia,Europe,Europe & Central Asia,0,0
+SLB,Solomon Islands,Oceania,East Asia & Pacific,0,0
+SOM,Somalia,Africa,Sub-Saharan Africa,0,0
+ZAF,South Africa,Africa,Sub-Saharan Africa,0,0
+SGS,South Georgia & South Sandwich Islands,NA,East Asia & Pacific,0,0
+KOR,South Korea,Asia,East Asia & Pacific,0,0
+SSD,South Sudan,Africa,Sub-Saharan Africa,1,1000
+ESP,Spain,Europe,Europe & Central Asia,0,0
+LKA,Sri Lanka,Asia,South Asia,0,0
+BLM,St. Barthélemy,Americas,Latin America & Caribbean,0,0
+SHN,St. Helena,Africa,NA,0,0
+KNA,St. Kitts & Nevis,Americas,Latin America & Caribbean,0,0
+LCA,St. Lucia,Americas,Latin America & Caribbean,0,0
+SPM,St. Pierre & Miquelon,Americas,North America,0,0
+VCT,St. Vincent & Grenadines,Americas,Latin America & Caribbean,0,0
+SDN,Sudan,Africa,Sub-Saharan Africa,0,0
+SUR,Suriname,Americas,Latin America & Caribbean,0,0
+SJM,Svalbard & Jan Mayen,Europe,NA,0,0
+SWE,Sweden,Europe,Europe & Central Asia,0,0
+CHE,Switzerland,Europe,Europe & Central Asia,1,1000
+SYR,Syria,Asia,Middle East & North Africa,0,0
+STP,São Tomé & Príncipe,Africa,Sub-Saharan Africa,0,0
+TWN,Taiwan,Asia,East Asia & Pacific,0,0
+TJK,Tajikistan,Asia,Europe & Central Asia,1,1000
+TZA,Tanzania,Africa,Sub-Saharan Africa,0,0
+THA,Thailand,Asia,East Asia & Pacific,0,0
+TLS,Timor-Leste,Asia,East Asia & Pacific,0,0
+TGO,Togo,Africa,Sub-Saharan Africa,0,0
+TKL,Tokelau,Oceania,East Asia & Pacific,0,0
+TON,Tonga,Oceania,East Asia & Pacific,0,0
+TTO,Trinidad & Tobago,Americas,Latin America & Caribbean,0,0
+TUN,Tunisia,Africa,Middle East & North Africa,0,0
+TUR,Turkey,Asia,Europe & Central Asia,0,0
+TKM,Turkmenistan,Asia,Europe & Central Asia,1,1000
+TCA,Turks & Caicos Islands,Americas,Latin America & Caribbean,0,0
+TUV,Tuvalu,Oceania,East Asia & Pacific,0,0
+VIR,U.S. Virgin Islands,Americas,Latin America & Caribbean,0,0
+UGA,Uganda,Africa,Sub-Saharan Africa,1,1000
+UKR,Ukraine,Europe,Europe & Central Asia,0,0
+ARE,United Arab Emirates,Asia,Middle East & North Africa,0,0
+GBR,United Kingdom,Europe,Europe & Central Asia,0,0
+USA,United States,Americas,North America,0,0
+UMI,United States Minor Outlying Islands (the),NA,NA,0,0
+URY,Uruguay,Americas,Latin America & Caribbean,0,0
+UZB,Uzbekistan,Asia,Europe & Central Asia,1,1000
+VUT,Vanuatu,Oceania,East Asia & Pacific,0,0
+VAT,Vatican City,Europe,Europe & Central Asia,1,1000
+VEN,Venezuela,Americas,Latin America & Caribbean,0,0
+VNM,Vietnam,Asia,East Asia & Pacific,0,0
+WLF,Wallis & Futuna,Oceania,NA,0,0
+ESH,Western Sahara,Africa,NA,0,0
+YEM,Yemen,Asia,Middle East & North Africa,0,0
+ZMB,Zambia,Africa,Sub-Saharan Africa,1,1000
+ZWE,Zimbabwe,Africa,Sub-Saharan Africa,1,1000
+ALA,Åland Islands,Europe,Europe & Central Asia,0,0

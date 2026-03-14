@@ -1,0 +1,13 @@
+Variable,Correlation_with_GHE,Valid_Observations,Unique_Values
+british_colonial,-0.07949733100326042,4547,2
+french_colonial,-0.21946387909266057,4547,2
+spanish_colonial,0.09738493615805788,4547,2
+portuguese_colonial,-0.07384535878608854,4547,2
+never_colonized,-0.007988722592310659,4547,2
+geographic_isolation,0.10288761352827691,4547,3
+distance_to_port,-0.3693969573109496,4547,5
+is_island,0.23213822946131382,4547,2
+is_landlocked,-0.11467377563971656,4547,2
+polity_iv_score,0.4954979407039245,4547,6
+government_stability,0.2367412504785807,4547,5
+supervision_effectiveness,0.26412368477572956,4547,5

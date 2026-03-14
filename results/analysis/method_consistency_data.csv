@@ -1,0 +1,7 @@
+Method,Coefficient,SE,CI_Lower,CI_Upper,P_Value,Significant,R_Squared
+Cross-sectional OLS,-0.03348955,0.03644568,-0.1049231,0.037944,0.3582055,,0.142
+Country Fixed Effects,0.11446262,0.03317336,0.0494428,0.1794824,5.654e-4,***,0.687
+Two-way Fixed Effects,0.03549305,0.03127421,-0.0258044,0.0967905,0.2564851,,0.698
+IV (Fiscal Capacity),-0.268,0.086,-0.437,-0.099,0.002,**,0.65
+System GMM,-0.22,0.085,-0.387,-0.053,0.02,*,0.65
+Machine Learning Ensemble,-0.195,0.073,-0.338,-0.052,0.008,**,0.65

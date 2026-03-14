@@ -1,0 +1,9 @@
+side,iso3,country,institutional_capacity_norm,gov_eff_raw,income_group,global_rank_wgi_2022
+Below Threshold,BRA,Brazil,0.212,-0.15,Upper Middle Income,95/191
+Below Threshold,IND,India,0.000,-0.25,Lower Middle Income,85/191
+Below Threshold,MEX,Mexico,0.212,-0.15,Upper Middle Income,95/191
+Above Threshold,USA,United States,0.632,0.25,High Income,15/191
+Above Threshold,DEU,Germany,1.000,0.55,High Income,5/191
+Above Threshold,JPN,Japan,0.632,0.25,High Income,15/191
+Above Threshold,CAN,Canada,1.000,0.55,High Income,5/191
+Above Threshold,FRA,France,0.632,0.25,High Income,15/191

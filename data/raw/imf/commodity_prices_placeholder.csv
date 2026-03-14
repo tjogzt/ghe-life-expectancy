@@ -1,0 +1,231 @@
+commodity,year,price_index,price_change
+Petroleum,2000,NA,NA
+Petroleum,2001,NA,NA
+Petroleum,2002,NA,NA
+Petroleum,2003,NA,NA
+Petroleum,2004,NA,NA
+Petroleum,2005,NA,NA
+Petroleum,2006,NA,NA
+Petroleum,2007,NA,NA
+Petroleum,2008,NA,NA
+Petroleum,2009,NA,NA
+Petroleum,2010,NA,NA
+Petroleum,2011,NA,NA
+Petroleum,2012,NA,NA
+Petroleum,2013,NA,NA
+Petroleum,2014,NA,NA
+Petroleum,2015,NA,NA
+Petroleum,2016,NA,NA
+Petroleum,2017,NA,NA
+Petroleum,2018,NA,NA
+Petroleum,2019,NA,NA
+Petroleum,2020,NA,NA
+Petroleum,2021,NA,NA
+Petroleum,2022,NA,NA
+Copper,2000,NA,NA
+Copper,2001,NA,NA
+Copper,2002,NA,NA
+Copper,2003,NA,NA
+Copper,2004,NA,NA
+Copper,2005,NA,NA
+Copper,2006,NA,NA
+Copper,2007,NA,NA
+Copper,2008,NA,NA
+Copper,2009,NA,NA
+Copper,2010,NA,NA
+Copper,2011,NA,NA
+Copper,2012,NA,NA
+Copper,2013,NA,NA
+Copper,2014,NA,NA
+Copper,2015,NA,NA
+Copper,2016,NA,NA
+Copper,2017,NA,NA
+Copper,2018,NA,NA
+Copper,2019,NA,NA
+Copper,2020,NA,NA
+Copper,2021,NA,NA
+Copper,2022,NA,NA
+Cocoa,2000,NA,NA
+Cocoa,2001,NA,NA
+Cocoa,2002,NA,NA
+Cocoa,2003,NA,NA
+Cocoa,2004,NA,NA
+Cocoa,2005,NA,NA
+Cocoa,2006,NA,NA
+Cocoa,2007,NA,NA
+Cocoa,2008,NA,NA
+Cocoa,2009,NA,NA
+Cocoa,2010,NA,NA
+Cocoa,2011,NA,NA
+Cocoa,2012,NA,NA
+Cocoa,2013,NA,NA
+Cocoa,2014,NA,NA
+Cocoa,2015,NA,NA
+Cocoa,2016,NA,NA
+Cocoa,2017,NA,NA
+Cocoa,2018,NA,NA
+Cocoa,2019,NA,NA
+Cocoa,2020,NA,NA
+Cocoa,2021,NA,NA
+Cocoa,2022,NA,NA
+Coffee,2000,NA,NA
+Coffee,2001,NA,NA
+Coffee,2002,NA,NA
+Coffee,2003,NA,NA
+Coffee,2004,NA,NA
+Coffee,2005,NA,NA
+Coffee,2006,NA,NA
+Coffee,2007,NA,NA
+Coffee,2008,NA,NA
+Coffee,2009,NA,NA
+Coffee,2010,NA,NA
+Coffee,2011,NA,NA
+Coffee,2012,NA,NA
+Coffee,2013,NA,NA
+Coffee,2014,NA,NA
+Coffee,2015,NA,NA
+Coffee,2016,NA,NA
+Coffee,2017,NA,NA
+Coffee,2018,NA,NA
+Coffee,2019,NA,NA
+Coffee,2020,NA,NA
+Coffee,2021,NA,NA
+Coffee,2022,NA,NA
+Gold,2000,NA,NA
+Gold,2001,NA,NA
+Gold,2002,NA,NA
+Gold,2003,NA,NA
+Gold,2004,NA,NA
+Gold,2005,NA,NA
+Gold,2006,NA,NA
+Gold,2007,NA,NA
+Gold,2008,NA,NA
+Gold,2009,NA,NA
+Gold,2010,NA,NA
+Gold,2011,NA,NA
+Gold,2012,NA,NA
+Gold,2013,NA,NA
+Gold,2014,NA,NA
+Gold,2015,NA,NA
+Gold,2016,NA,NA
+Gold,2017,NA,NA
+Gold,2018,NA,NA
+Gold,2019,NA,NA
+Gold,2020,NA,NA
+Gold,2021,NA,NA
+Gold,2022,NA,NA
+Aluminum,2000,NA,NA
+Aluminum,2001,NA,NA
+Aluminum,2002,NA,NA
+Aluminum,2003,NA,NA
+Aluminum,2004,NA,NA
+Aluminum,2005,NA,NA
+Aluminum,2006,NA,NA
+Aluminum,2007,NA,NA
+Aluminum,2008,NA,NA
+Aluminum,2009,NA,NA
+Aluminum,2010,NA,NA
+Aluminum,2011,NA,NA
+Aluminum,2012,NA,NA
+Aluminum,2013,NA,NA
+Aluminum,2014,NA,NA
+Aluminum,2015,NA,NA
+Aluminum,2016,NA,NA
+Aluminum,2017,NA,NA
+Aluminum,2018,NA,NA
+Aluminum,2019,NA,NA
+Aluminum,2020,NA,NA
+Aluminum,2021,NA,NA
+Aluminum,2022,NA,NA
+Iron Ore,2000,NA,NA
+Iron Ore,2001,NA,NA
+Iron Ore,2002,NA,NA
+Iron Ore,2003,NA,NA
+Iron Ore,2004,NA,NA
+Iron Ore,2005,NA,NA
+Iron Ore,2006,NA,NA
+Iron Ore,2007,NA,NA
+Iron Ore,2008,NA,NA
+Iron Ore,2009,NA,NA
+Iron Ore,2010,NA,NA
+Iron Ore,2011,NA,NA
+Iron Ore,2012,NA,NA
+Iron Ore,2013,NA,NA
+Iron Ore,2014,NA,NA
+Iron Ore,2015,NA,NA
+Iron Ore,2016,NA,NA
+Iron Ore,2017,NA,NA
+Iron Ore,2018,NA,NA
+Iron Ore,2019,NA,NA
+Iron Ore,2020,NA,NA
+Iron Ore,2021,NA,NA
+Iron Ore,2022,NA,NA
+Wheat,2000,NA,NA
+Wheat,2001,NA,NA
+Wheat,2002,NA,NA
+Wheat,2003,NA,NA
+Wheat,2004,NA,NA
+Wheat,2005,NA,NA
+Wheat,2006,NA,NA
+Wheat,2007,NA,NA
+Wheat,2008,NA,NA
+Wheat,2009,NA,NA
+Wheat,2010,NA,NA
+Wheat,2011,NA,NA
+Wheat,2012,NA,NA
+Wheat,2013,NA,NA
+Wheat,2014,NA,NA
+Wheat,2015,NA,NA
+Wheat,2016,NA,NA
+Wheat,2017,NA,NA
+Wheat,2018,NA,NA
+Wheat,2019,NA,NA
+Wheat,2020,NA,NA
+Wheat,2021,NA,NA
+Wheat,2022,NA,NA
+Rice,2000,NA,NA
+Rice,2001,NA,NA
+Rice,2002,NA,NA
+Rice,2003,NA,NA
+Rice,2004,NA,NA
+Rice,2005,NA,NA
+Rice,2006,NA,NA
+Rice,2007,NA,NA
+Rice,2008,NA,NA
+Rice,2009,NA,NA
+Rice,2010,NA,NA
+Rice,2011,NA,NA
+Rice,2012,NA,NA
+Rice,2013,NA,NA
+Rice,2014,NA,NA
+Rice,2015,NA,NA
+Rice,2016,NA,NA
+Rice,2017,NA,NA
+Rice,2018,NA,NA
+Rice,2019,NA,NA
+Rice,2020,NA,NA
+Rice,2021,NA,NA
+Rice,2022,NA,NA
+Sugar,2000,NA,NA
+Sugar,2001,NA,NA
+Sugar,2002,NA,NA
+Sugar,2003,NA,NA
+Sugar,2004,NA,NA
+Sugar,2005,NA,NA
+Sugar,2006,NA,NA
+Sugar,2007,NA,NA
+Sugar,2008,NA,NA
+Sugar,2009,NA,NA
+Sugar,2010,NA,NA
+Sugar,2011,NA,NA
+Sugar,2012,NA,NA
+Sugar,2013,NA,NA
+Sugar,2014,NA,NA
+Sugar,2015,NA,NA
+Sugar,2016,NA,NA
+Sugar,2017,NA,NA
+Sugar,2018,NA,NA
+Sugar,2019,NA,NA
+Sugar,2020,NA,NA
+Sugar,2021,NA,NA
+Sugar,2022,NA,NA

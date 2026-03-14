@@ -1,0 +1,4 @@
+iso3c,country,year,che_gdp,ghe_gdp,ghe_curative_gdp,ghe_preventive_gdp,ghe_longterm_gdp,ghe_ancillary_gdp,ghe_medgoods_gdp,ghe_hospital_gdp,ghe_primarycare_gdp,ghe_publichealth_gdp
+USA,United States,2020,16.8,8.5,NA,NA,NA,NA,NA,NA,NA,NA
+CHN,China,2020,5.4,3.1,NA,NA,NA,NA,NA,NA,NA,NA
+IND,India,2020,3.2,1.2,NA,NA,NA,NA,NA,NA,NA,NA

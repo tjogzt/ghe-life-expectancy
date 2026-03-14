@@ -1,0 +1,25 @@
+IndicatorCode,IndicatorName,Language
+NCD_CCS_chemo,General availability of chemotherapy in the public health system,EN
+NTD_ONCHEMO,Estimated number of individuals in the country requiring preventive chemotherapy for onchocerciasis,EN
+E12_brand_sharing,Ban on brand name of non-tobacco products used for tobacco product,EN
+GHED_EXT_pc_US_SHA2011,External health expenditure (EXT) per capita in US$,EN
+GHED_GGHE-D_pc_US_SHA2011,Domestic general government health expenditure (GGHE-D) per capita in US$,EN
+GHED_GGHE-DGGE_SHA2011,Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE) (%),EN
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,EN
+GHED_CHEGDP_SHA2011,Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%),EN
+GHED_EXT_pc_PPP_SHA2011,External health expenditure (EXT) per capita in PPP int$,EN
+GHED_PVT-D_pc_PPP_SHA2011,Domestic private health expenditure (PVT-D) per capita in PPP int$,EN
+GHED_GGHE-D_pc_PPP_SHA2011,Domestic general government health expenditure (GGHE-D) per capita in PPP int$,EN
+GHED_GGHE-DGDP_SHA2011,Domestic general government health expenditure (GGHE-D) as percentage of gross domestic product (GDP) (%),EN
+GHED_OOP_pc_PPP_SHA2011,Out-of-pocket expenditure (OOP) per capita in PPP int$,EN
+GHED_OOP_pc_US_SHA2011,Out-of-pocket expenditure (OOP) per capita in US$,EN
+GHED_PVT-D_pc_US_SHA2011,Domestic private health expenditure (PVT-D) per capita in US$,EN
+GHED_PVT-DCHE_SHA2011,Domestic private health expenditure (PVT-D) as percentage of current health expenditure (CHE) (%),EN
+GHED_CHE_pc_PPP_SHA2011,Current health expenditure (CHE) per capita in PPP int$,EN
+GHED_EXTCHE_SHA2011,External health expenditure (EXT) as percentage of current health expenditure (CHE) (%),EN
+GHED_GGHE-DCHE_SHA2011,Domestic general government health expenditure (GGHE-D) as percentage of current health expenditure (CHE) (%),EN
+GHED_OOPSCHE_SHA2011,Out-of-pocket expenditure as percentage of current health expenditure (CHE) (%),EN
+GHED_PHC_pc_US_SHA2011,Primary health care expenditure (PHCE) per сapita in US$,EN
+ORALHEALTH_UHC_GOVSCHEME,Oral health interventions as part of health benefit packages: Coverage of the largest government health financing scheme (%),EN
+GHED_PHC_GGHE-D_PHC_SHA2011,Domestic general government expenditure on PHC as % of primary health care expenditure (PHCE) (%),EN
+ORALHEALTH_DENOMINATOR_CHEPPP,Per capita current health expenditure in PPP (oral health),EN

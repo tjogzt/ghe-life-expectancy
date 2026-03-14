@@ -1,0 +1,7 @@
+Test,Value,Critical,Status,Category,Pass
+AR(2) Test,0.85,0.05,Pass,Serial Correlation,TRUE
+Significance Rate,95.2,90,Pass,Model Fit,TRUE
+Hansen J Test,12.34,15,Pass,Overidentification,TRUE
+First-stage F,142.7,10,Pass,Instrument Strength,TRUE
+F-test (Country FE),121.20,3.84,Pass,Fixed Effects,TRUE
+Hausman Test,703.73,3.84,Pass,Model Selection,TRUE

@@ -1,0 +1,13 @@
+variable,description_en,description_cn,sha2011_code,expected_use
+hc1_gdp,Curative care as % GDP (HC.1),治疗性保健支出占GDP比例,HC.1,分析治疗性vs预防性支出的异质效应
+hc2_gdp,Rehabilitative care as % GDP (HC.2),康复性保健支出占GDP比例,HC.2,控制变量或子样本分析
+hc3_gdp,Long-term care as % GDP (HC.3),长期护理支出占GDP比例,HC.3,控制变量或子样本分析
+hc4_gdp,Ancillary services as % GDP (HC.4),辅助服务支出占GDP比例,HC.4,控制变量或子样本分析
+hc5_gdp,Medical goods as % GDP (HC.5),医疗用品支出占GDP比例,HC.5,控制变量或子样本分析
+hc6_gdp,Preventive care as % GDP (HC.6),预防性保健支出占GDP比例,HC.6,控制变量或子样本分析
+hc7_gdp,Governance as % GDP (HC.7),卫生治理支出占GDP比例,HC.7,控制变量
+hc1_gghed_gdp,Government curative care as % GDP,政府治疗性保健支出占GDP比例,HC.1 (GGHE-D),核心解释变量(治疗性)
+hc6_gghed_gdp,Government preventive care as % GDP,政府预防性保健支出占GDP比例,HC.6 (GGHE-D),核心解释变量(预防性)
+hp1_gdp,Hospitals as % GDP (HP.1),医院支出占GDP比例,HP.1,子样本分析:医院vs初级保健效应
+hp3_gdp,Primary care as % GDP (HP.3),初级保健支出占GDP比例,HP.3,子样本分析:初级保健效应
+hp5_gdp,Public health as % GDP (HP.5),公共卫生支出占GDP比例,HP.5,子样本分析:公共卫生效应

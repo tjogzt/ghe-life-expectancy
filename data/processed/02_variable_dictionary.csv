@@ -1,0 +1,66 @@
+variable,class,n_missing,pct_missing,n_unique,description
+country,character,0,0,195,See data source documentation
+iso2c,character,23,0.5128205128205128,194,See data source documentation
+iso3c,character,0,0,195,ISO 3166-1 alpha-3 country code
+year,numeric,0,0,23,Year of observation
+status,logical,4485,100,0,See data source documentation
+lastupdated,Date,0,0,1,See data source documentation
+sh.xpd.chex.gd.zs,numeric,170,3.79041248606466,4315,See data source documentation
+sh.xpd.ghed.gd.zs,numeric,170,3.79041248606466,4314,See data source documentation
+sp.dyn.le00.in,numeric,0,0,4194,See data source documentation
+sp.dyn.imrt.in,numeric,69,1.5384615384615385,885,See data source documentation
+ny.gdp.pcap.cd,numeric,101,2.2519509476031216,4384,See data source documentation
+sp.pop.totl,numeric,0,0,4483,See data source documentation
+region,character,0,0,7,Geographic region
+capital,character,69,1.5384615384615385,192,See data source documentation
+longitude,numeric,69,1.5384615384615385,192,See data source documentation
+latitude,numeric,69,1.5384615384615385,192,See data source documentation
+income,character,0,0,5,See data source documentation
+lending,character,0,0,4,See data source documentation
+control_of_corruption,numeric,315,7.023411371237458,4104,"Control of Corruption (WGI, -2.5 to 2.5)"
+government_effectiveness,numeric,327,7.290969899665551,4081,"Government Effectiveness (WGI, -2.5 to 2.5)"
+political_stability,numeric,274,6.109253065774805,4094,"Political Stability (WGI, -2.5 to 2.5)"
+regulatory_quality,numeric,326,7.268673355629877,4125,"Regulatory Quality (WGI, -2.5 to 2.5)"
+rule_of_law,numeric,251,5.596432552954292,4162,"Rule of Law (WGI, -2.5 to 2.5)"
+voice_accountability,numeric,249,5.551839464882943,4217,"Voice and Accountability (WGI, -2.5 to 2.5)"
+tax_revenue_gdp,numeric,1747,38.952062430323295,2738,Tax Revenue (% of GDP)
+government_debt_gdp,numeric,3423,76.3210702341137,1062,Government Debt (% of GDP)
+government_revenue_gdp,numeric,2027,45.19509476031215,2456,Government Revenue (% of GDP)
+government_expense_gdp,numeric,1732,38.61761426978818,2753,Government Expenses (% of GDP)
+property_rights,numeric,3136,69.92196209587513,8,Property Rights Index
+transparency,numeric,3136,69.92196209587513,8,Transparency Index
+population_density,numeric,47,1.0479375696767002,4437,Population density (people per sq km)
+land_area,numeric,47,1.0479375696767002,639,Land area (sq km)
+landlocked,numeric,0,0,2,"Landlocked country (1=yes, 0=no)"
+distance_to_coast,numeric,0,0,2,"Distance to coast (simplified, km)"
+continent,character,0,0,5,Continent
+region_geo,character,0,0,7,See data source documentation
+independence_year,numeric,4048,90.25641025641026,16,Year of independence
+years_since_independence,numeric,4048,90.25641025641026,16,Years since independence (as of 2022)
+legal_origin,character,0,0,5,Legal origin (La Porta classification)
+mean_elevation,numeric,391,8.717948717948717,178,Mean elevation (meters)
+sd_elevation,numeric,391,8.717948717948717,178,Standard deviation of elevation (meters)
+cv_elevation,numeric,391,8.717948717948717,178,Coefficient of variation of elevation (terrain ruggedness proxy)
+ruggedness_index,numeric,391,8.717948717948717,178,Terrain ruggedness index (SD of elevation)
+terrain_heterogeneity,numeric,391,8.717948717948717,178,Terrain heterogeneity index
+old_age_dependency,numeric,23,0.5128205128205128,4462,See data source documentation
+young_age_dependency,numeric,23,0.5128205128205128,4462,See data source documentation
+working_age_population,numeric,23,0.5128205128205128,4462,See data source documentation
+urban_population_pct,numeric,23,0.5128205128205128,4299,See data source documentation
+government_education_expenditure_gdp,numeric,1435,31.995540691192865,3044,See data source documentation
+che_gdp,numeric,170,3.79041248606466,4315,Current health expenditure (% of GDP)
+ghe_gdp,numeric,170,3.79041248606466,4314,Government health expenditure (% of GDP)
+life_exp,numeric,0,0,4194,Life expectancy at birth (years)
+infant_mort,numeric,69,1.5384615384615385,885,"Infant mortality rate (per 1,000 live births)"
+gdp_pc,numeric,101,2.2519509476031216,4384,GDP per capita (current US$)
+population,numeric,0,0,4483,Total population
+log_gdp_pc,numeric,101,2.2519509476031216,4384,Natural log of gdp_pc
+log_population,numeric,0,0,4483,Natural log of population
+log_che_gdp,numeric,170,3.79041248606466,4315,Natural log of che_gdp
+che_gdp_lag1,numeric,170,3.79041248606466,4315,Lagged che_gdp
+ghe_gdp_lag1,numeric,170,3.79041248606466,4314,Lagged ghe_gdp
+life_exp_lag1,numeric,0,0,4194,Lagged life_exp
+gdp_pc_lag1,numeric,101,2.2519509476031216,4384,Lagged gdp_pc
+outlier_che,logical,170,3.79041248606466,2,Outlier flag for che
+outlier_ghe,logical,170,3.79041248606466,2,Outlier flag for ghe
+outlier_gdp,logical,101,2.2519509476031216,2,Outlier flag for gdp

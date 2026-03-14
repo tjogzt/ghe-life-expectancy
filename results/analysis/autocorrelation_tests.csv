@@ -1,0 +1,3 @@
+Test,Statistic,P_value,Autocorrelation
+Durbin-Watson,0.15505705718716586,0,Yes
+Breusch-Godfrey,3615.4133836380556,0,Yes

@@ -1,0 +1,2 @@
+"threshold_ols","threshold_robust","se","ci_lower_percentile","ci_upper_percentile","ci_lower_bca","ci_upper_bca","coef_low","se_low","coef_high","se_high","n_obs","n_countries","n_bootstrap"
+-0.53233694873675,-1.01164616346359,0.410905760516958,-0.780591301380287,0.517361887019969,0.0358629528673032,1.14138635964545,-0.0495247902404696,0.0407921922189114,-0.196776342308397,0.0370968859519498,4035,189,5000

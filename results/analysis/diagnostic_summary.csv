@@ -1,0 +1,7 @@
+Diagnostic_Test,Statistic,P_value,Issue_Detected
+Multicollinearity (Max VIF),3.626252941691228,NA,No
+Heteroskedasticity (BP test),379.4458459566188,7.96808706223372e-80,Yes
+Autocorrelation (DW test),0.15505705718716586,0,Yes
+Model Specification (RESET test),97.00667689575282,1.9829171978695005e-181,Yes
+Fixed Effects (F test),121.19917694233996,0,Yes
+Random vs Fixed Effects (Hausman),395.047578354632,3.46413712714405e-83,Yes

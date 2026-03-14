@@ -1,0 +1,6 @@
+Variable,VIF,Multicollinearity
+health_exp_govt_gdp,3.626252941691228,Moderate
+log_gdp_per_capita,3.051407988545607,Moderate
+log_population,1.03828832751332,Low
+health_exp_total_gdp,2.4598388373856968,Low
+infant_mortality,2.7435662893482067,Moderate

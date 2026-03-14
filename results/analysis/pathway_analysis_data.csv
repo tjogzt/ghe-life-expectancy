@@ -1,0 +1,11 @@
+Institutional_Level,Pathway,Effect,Institutional_Level_Label
+-2,Direct Pathway,0.045,Very Weak
+-2,Interaction Pathway,-2.220446049250313e-17,Very Weak
+-1,Direct Pathway,0.045,Weak
+-1,Interaction Pathway,-1.1102230246251564e-17,Weak
+0,Direct Pathway,0.045,Average
+0,Interaction Pathway,0,Average
+1,Direct Pathway,0.045,Strong
+1,Interaction Pathway,1.1102230246251564e-17,Strong
+2,Direct Pathway,0.045,Very Strong
+2,Interaction Pathway,2.220446049250313e-17,Very Strong

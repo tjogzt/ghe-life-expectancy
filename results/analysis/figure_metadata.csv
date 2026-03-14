@@ -1,0 +1,12 @@
+Figure,Title,Data_Source,Output_File
+Figure 1,Main Estimation Results,combined_forest_plot_data.csv,Figure_1_Main_Estimation_Results.pdf
+Figure 2,Main Findings - From Association to Causation,method_consistency_data.csv,Figure_2_Main_Findings.pdf
+Figure 3,Development Heterogeneity Analysis,income_heterogeneity_data.csv,Figure_3_Development_Heterogeneity.pdf
+Figure 4,Policy Optimization and Marginal Effects,threshold_effect_data.csv,Figure_4_Policy_Optimization.pdf
+Figure S1,Data Coverage and Quality Assessment,coverage_analysis.csv,Figure_S1_Data_Coverage_Quality.pdf
+Figure S2,Variable Distribution and Correlation Matrix,missing_analysis.csv,Figure_S2_Variable_Distribution.pdf
+Figure S3,Robustness Checks Visualization,diagnostic_summary.csv,Figure_S3_Robustness_Check.pdf
+Figure S4,Heterogeneity Analysis,income_heterogeneity_data.csv,Figure_S4_Heterogeneity_Analysis.pdf
+Figure S5,Threshold Effects Visualization,threshold_effect_data.csv,Figure_S5_Threshold_Effects.pdf
+Figure S6,Machine Learning Model Performance,stable_ml_validation_report.csv,Figure_S6_ML_Model_Performance.pdf
+Figure S7,Stratified Slope Analysis,causal_analysis_summary.csv,Figure_S7_Stratified_Slope.pdf

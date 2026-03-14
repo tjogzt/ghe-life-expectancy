@@ -1,0 +1,13 @@
+Statistic,Value
+Threshold Estimate,-1.4122823663986006
+Standard Error,0.06408937497331413
+95% CI Lower,-1.4360030056800794
+95% CI Upper,-1.3495932514372555
+Low Regime Effect (GHE),-0.5337410418118037
+Low Regime SE,0.17172010941163798
+High Regime Effect (GHE),-0.16211351015783143
+High Regime SE,0.03666554795204286
+Difference (High - Low),0.3716275316539723
+Observations,4035
+Countries in Low Regime,23
+Countries in High Regime,187

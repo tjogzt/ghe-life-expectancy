@@ -1,0 +1,250 @@
+iso3c,country,independence_year,years_since_independence,legal_origin
+AFG,Afghanistan,NA,NA,Other
+ALB,Albania,NA,NA,Other
+DZA,Algeria,NA,NA,French
+ASM,American Samoa,NA,NA,Other
+AND,Andorra,NA,NA,Other
+AGO,Angola,NA,NA,Other
+AIA,Anguilla,NA,NA,Other
+ATA,Antarctica,NA,NA,Other
+ATG,Antigua & Barbuda,NA,NA,Other
+ARG,Argentina,1816,206,French
+ARM,Armenia,NA,NA,Other
+ABW,Aruba,NA,NA,Other
+AUS,Australia,NA,NA,British
+AUT,Austria,NA,NA,German
+AZE,Azerbaijan,NA,NA,Other
+BHS,Bahamas,NA,NA,Other
+BHR,Bahrain,NA,NA,Other
+BGD,Bangladesh,NA,NA,British
+BRB,Barbados,NA,NA,Other
+BLR,Belarus,NA,NA,Other
+BEL,Belgium,NA,NA,French
+BLZ,Belize,NA,NA,Other
+BEN,Benin,NA,NA,French
+BMU,Bermuda,NA,NA,Other
+BTN,Bhutan,NA,NA,Other
+BOL,Bolivia,NA,NA,Other
+BIH,Bosnia & Herzegovina,NA,NA,Other
+BWA,Botswana,NA,NA,Other
+BVT,Bouvet Island,NA,NA,Other
+BRA,Brazil,1822,200,French
+IOT,British Indian Ocean Territory,NA,NA,Other
+VGB,British Virgin Islands,NA,NA,Other
+BRN,Brunei,NA,NA,Other
+BGR,Bulgaria,NA,NA,Other
+BFA,Burkina Faso,NA,NA,Other
+BDI,Burundi,NA,NA,Other
+KHM,Cambodia,NA,NA,French
+CMR,Cameroon,NA,NA,French
+CAN,Canada,NA,NA,British
+CPV,Cape Verde,NA,NA,Other
+BES,Caribbean Netherlands,NA,NA,Other
+CYM,Cayman Islands,NA,NA,Other
+CAF,Central African Republic,NA,NA,Other
+TCD,Chad,NA,NA,French
+CHL,Chile,1818,204,French
+CHN,China,1949,73,Other
+CXR,Christmas Island,NA,NA,Other
+CCK,Cocos (Keeling) Islands,NA,NA,Other
+COL,Colombia,1810,212,French
+COM,Comoros,NA,NA,Other
+COG,Congo - Brazzaville,NA,NA,French
+COD,Congo - Kinshasa,NA,NA,Other
+COK,Cook Islands,NA,NA,Other
+CRI,Costa Rica,NA,NA,Other
+HRV,Croatia,NA,NA,Other
+CUB,Cuba,NA,NA,Other
+CUW,Curaçao,NA,NA,Other
+CYP,Cyprus,NA,NA,Other
+CZE,Czechia,NA,NA,Other
+CIV,Côte d’Ivoire,NA,NA,French
+DNK,Denmark,NA,NA,Scandinavian
+DJI,Djibouti,NA,NA,Other
+DMA,Dominica,NA,NA,Other
+DOM,Dominican Republic,NA,NA,Other
+ECU,Ecuador,NA,NA,Other
+EGY,Egypt,1922,100,Other
+SLV,El Salvador,NA,NA,Other
+GNQ,Equatorial Guinea,NA,NA,Other
+ERI,Eritrea,NA,NA,Other
+EST,Estonia,NA,NA,Other
+SWZ,Eswatini,NA,NA,Other
+ETH,Ethiopia,NA,NA,Other
+FLK,Falkland Islands,NA,NA,Other
+FRO,Faroe Islands,NA,NA,Other
+FJI,Fiji,NA,NA,Other
+FIN,Finland,NA,NA,Scandinavian
+FRA,France,1789,233,French
+GUF,French Guiana,NA,NA,Other
+PYF,French Polynesia,NA,NA,Other
+ATF,French Southern Territories,NA,NA,Other
+GAB,Gabon,NA,NA,French
+GMB,Gambia,NA,NA,Other
+GEO,Georgia,NA,NA,Other
+DEU,Germany,NA,NA,German
+GHA,Ghana,NA,NA,British
+GIB,Gibraltar,NA,NA,Other
+GRC,Greece,NA,NA,Other
+GRL,Greenland,NA,NA,Other
+GRD,Grenada,NA,NA,Other
+GLP,Guadeloupe,NA,NA,Other
+GUM,Guam,NA,NA,Other
+GTM,Guatemala,NA,NA,Other
+GGY,Guernsey,NA,NA,Other
+GIN,Guinea,NA,NA,Other
+GNB,Guinea-Bissau,NA,NA,Other
+GUY,Guyana,NA,NA,Other
+HTI,Haiti,NA,NA,Other
+HMD,Heard & McDonald Islands,NA,NA,Other
+HND,Honduras,NA,NA,Other
+HKG,Hong Kong SAR China,NA,NA,British
+HUN,Hungary,NA,NA,Other
+ISL,Iceland,NA,NA,Scandinavian
+IND,India,1947,75,British
+IDN,Indonesia,1945,77,Other
+IRN,Iran,NA,NA,Other
+IRQ,Iraq,NA,NA,Other
+IRL,Ireland,NA,NA,Other
+IMN,Isle of Man,NA,NA,Other
+ISR,Israel,NA,NA,Other
+ITA,Italy,NA,NA,French
+JAM,Jamaica,NA,NA,Other
+JPN,Japan,NA,NA,Other
+JEY,Jersey,NA,NA,Other
+JOR,Jordan,NA,NA,Other
+KAZ,Kazakhstan,NA,NA,Other
+KEN,Kenya,1963,59,British
+KIR,Kiribati,NA,NA,Other
+KWT,Kuwait,NA,NA,Other
+KGZ,Kyrgyzstan,NA,NA,Other
+LAO,Laos,NA,NA,French
+LVA,Latvia,NA,NA,Other
+LBN,Lebanon,NA,NA,Other
+LSO,Lesotho,NA,NA,Other
+LBR,Liberia,NA,NA,Other
+LBY,Libya,NA,NA,Other
+LIE,Liechtenstein,NA,NA,Other
+LTU,Lithuania,NA,NA,Other
+LUX,Luxembourg,NA,NA,Other
+MAC,Macao SAR China,NA,NA,Other
+MDG,Madagascar,NA,NA,French
+MWI,Malawi,NA,NA,Other
+MYS,Malaysia,NA,NA,British
+MDV,Maldives,NA,NA,Other
+MLI,Mali,NA,NA,French
+MLT,Malta,NA,NA,Other
+MHL,Marshall Islands,NA,NA,Other
+MTQ,Martinique,NA,NA,Other
+MRT,Mauritania,NA,NA,Other
+MUS,Mauritius,NA,NA,Other
+MYT,Mayotte,NA,NA,Other
+MEX,Mexico,1810,212,French
+FSM,Micronesia (Federated States of),NA,NA,Other
+MDA,Moldova,NA,NA,Other
+MCO,Monaco,NA,NA,Other
+MNG,Mongolia,NA,NA,Other
+MNE,Montenegro,NA,NA,Other
+MSR,Montserrat,NA,NA,Other
+MAR,Morocco,NA,NA,French
+MOZ,Mozambique,NA,NA,Other
+MMR,Myanmar (Burma),NA,NA,Other
+NAM,Namibia,NA,NA,Other
+NRU,Nauru,NA,NA,Other
+NPL,Nepal,NA,NA,Other
+NLD,Netherlands,NA,NA,Other
+NCL,New Caledonia,NA,NA,Other
+NZL,New Zealand,NA,NA,British
+NIC,Nicaragua,NA,NA,Other
+NER,Niger,NA,NA,French
+NGA,Nigeria,1960,62,British
+NIU,Niue,NA,NA,Other
+NFK,Norfolk Island,NA,NA,Other
+PRK,North Korea,NA,NA,Other
+MKD,North Macedonia,NA,NA,Other
+MNP,Northern Mariana Islands,NA,NA,Other
+NOR,Norway,NA,NA,Scandinavian
+OMN,Oman,NA,NA,Other
+PAK,Pakistan,1947,75,British
+PLW,Palau,NA,NA,Other
+PSE,Palestinian Territories,NA,NA,Other
+PAN,Panama,NA,NA,Other
+PNG,Papua New Guinea,NA,NA,Other
+PRY,Paraguay,NA,NA,Other
+PER,Peru,1821,201,French
+PHL,Philippines,1946,76,Other
+PCN,Pitcairn Islands,NA,NA,Other
+POL,Poland,NA,NA,Other
+PRT,Portugal,NA,NA,French
+PRI,Puerto Rico,NA,NA,Other
+QAT,Qatar,NA,NA,Other
+ROU,Romania,NA,NA,Other
+RUS,Russia,NA,NA,Other
+RWA,Rwanda,NA,NA,Other
+REU,Réunion,NA,NA,Other
+MAF,Saint Martin (French part),NA,NA,Other
+WSM,Samoa,NA,NA,Other
+SMR,San Marino,NA,NA,Other
+SAU,Saudi Arabia,NA,NA,Other
+SEN,Senegal,NA,NA,French
+SRB,Serbia,NA,NA,Other
+SYC,Seychelles,NA,NA,Other
+SLE,Sierra Leone,NA,NA,Other
+SGP,Singapore,NA,NA,British
+SXM,Sint Maarten,NA,NA,Other
+SVK,Slovakia,NA,NA,Other
+SVN,Slovenia,NA,NA,Other
+SLB,Solomon Islands,NA,NA,Other
+SOM,Somalia,NA,NA,Other
+ZAF,South Africa,1910,112,British
+SGS,South Georgia & South Sandwich Islands,NA,NA,Other
+KOR,South Korea,NA,NA,Other
+SSD,South Sudan,NA,NA,Other
+ESP,Spain,NA,NA,French
+LKA,Sri Lanka,NA,NA,Other
+BLM,St. Barthélemy,NA,NA,Other
+SHN,St. Helena,NA,NA,Other
+KNA,St. Kitts & Nevis,NA,NA,Other
+LCA,St. Lucia,NA,NA,Other
+SPM,St. Pierre & Miquelon,NA,NA,Other
+VCT,St. Vincent & Grenadines,NA,NA,Other
+SDN,Sudan,NA,NA,Other
+SUR,Suriname,NA,NA,Other
+SJM,Svalbard & Jan Mayen,NA,NA,Other
+SWE,Sweden,NA,NA,Scandinavian
+CHE,Switzerland,NA,NA,German
+SYR,Syria,NA,NA,Other
+STP,São Tomé & Príncipe,NA,NA,Other
+TWN,Taiwan,NA,NA,Other
+TJK,Tajikistan,NA,NA,Other
+TZA,Tanzania,NA,NA,Other
+THA,Thailand,1238,784,Other
+TLS,Timor-Leste,NA,NA,Other
+TGO,Togo,NA,NA,Other
+TKL,Tokelau,NA,NA,Other
+TON,Tonga,NA,NA,Other
+TTO,Trinidad & Tobago,NA,NA,Other
+TUN,Tunisia,NA,NA,French
+TUR,Turkey,NA,NA,Other
+TKM,Turkmenistan,NA,NA,Other
+TCA,Turks & Caicos Islands,NA,NA,Other
+TUV,Tuvalu,NA,NA,Other
+VIR,U.S. Virgin Islands,NA,NA,Other
+UGA,Uganda,NA,NA,British
+UKR,Ukraine,NA,NA,Other
+ARE,United Arab Emirates,NA,NA,Other
+GBR,United Kingdom,NA,NA,British
+USA,United States,1776,246,British
+UMI,United States Minor Outlying Islands (the),NA,NA,Other
+URY,Uruguay,NA,NA,Other
+UZB,Uzbekistan,NA,NA,Other
+VUT,Vanuatu,NA,NA,Other
+VAT,Vatican City,NA,NA,Other
+VEN,Venezuela,1811,211,French
+VNM,Vietnam,1945,77,French
+WLF,Wallis & Futuna,NA,NA,Other
+ESH,Western Sahara,NA,NA,Other
+YEM,Yemen,NA,NA,Other
+ZMB,Zambia,NA,NA,British
+ZWE,Zimbabwe,NA,NA,British
+ALA,Åland Islands,NA,NA,Other

@@ -1,0 +1,9 @@
+Finding,Estimate,Significance,Interpretation
+Cross-sectional association,-0.03348955,Not significant,Negative but not significant association
+Causal effect (Country FE),0.11446262,p<0.001***,Positive causal effect of government health spending
+Causal effect (IV),-0.268,p=0.002**,Negative causal effect when accounting for endogeneity
+Causal effect (GMM),-0.22,p=0.020*,Robust negative effect using dynamic panel methods
+ML ensemble effect,-0.195,p=0.008**,Consistent negative effect using machine learning
+Upper-middle-income effect,-0.184900337595626,p=0.001*,Strong negative effect in upper-middle-income countries
+Low-income effect,0.347206260528938,p=0.015†,Large positive effect in low-income countries
+Threshold effect detected,Yes,Significant,Effect depends on institutional capacity thresholds

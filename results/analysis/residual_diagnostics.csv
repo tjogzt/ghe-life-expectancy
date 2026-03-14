@@ -1,0 +1,2 @@
+Test,Statistic,P_value,Normality
+Shapiro-Wilk Normality,0.9630511069253027,1.1118821142957313e-31,Non-normal

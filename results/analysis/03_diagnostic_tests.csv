@@ -1,0 +1,4 @@
+Test,Statistic,P_Value,Interpretation
+Hausman Test (FE vs RE),68.94386357255512,1.0691293317978462e-15,Use Fixed Effects
+Serial Correlation (Breusch-Godfrey),1839.1535033877897,0,Serial correlation present
+Heteroskedasticity (Breusch-Pagan),144.48395221117298,4.07881036863385e-31,Heteroskedasticity present
