@@ -241,8 +241,8 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 For questions or issues, please open a GitHub issue or contact:
 
-- **Corresponding author**: tjogzt@gmail。com
-- **Repository maintainer**: tjogzt
+- **Corresponding author**: tjogzt@gmail.com
+- **Repository maintainer**: Tao Zhu
 
 
 ---
